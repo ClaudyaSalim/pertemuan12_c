@@ -15,6 +15,9 @@ public class Main {
 		
 		System.out.println("Priority of: " + countdown2.getName() + " " + countdown2.getPriority());
 		System.out.println("Priority of: " + countdown1.getName() + " " + countdown1.getPriority());
+		
+		
+		
 	}
 
 	public static void main(String[] args) {
